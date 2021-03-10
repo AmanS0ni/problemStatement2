@@ -16,4 +16,5 @@ Let support user given inputs
 4.) so values will be --
 
 3 , 12 here 3 = A[0] and 12 = B[1] and Total is 15 that is T.
+
 9, 6 here 9 = A[2] and 6 = B[0] and Total is 15 that is T.
